@@ -1,6 +1,6 @@
 # tcc-adega
 
-Projeto em reconstrução devido a problema na hora da build ( O que faz não ter demo )
+Projeto em reconstrução devido a problema na hora da build e para atualização de tecnologias
 
 https://github.com/0deQI/tcc-adega/assets/90227163/5c807fb4-d87d-44c6-8f76-69bce879ae9a
 
