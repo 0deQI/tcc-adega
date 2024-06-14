@@ -9,7 +9,8 @@ https://github.com/0deQI/tcc-adega/assets/90227163/c2718689-90ff-4ede-9cd1-0358f
 https://github.com/0deQI/tcc-adega/assets/90227163/68cfbf8c-e0bb-4928-b98e-5803720e8876
 
 Para executar o projeto :
-Extrair o arquivo codigo fonte
+Extrair o arquivo codigo fonte 
+
 Executar os arquivos SQL
 Fazer ``` npm install ``` na pasta client e na pasta server
 Configure o arquivo server.js com as informações do seu banco de dados no MySQLServer
