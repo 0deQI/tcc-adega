@@ -1,7 +1,7 @@
 # tcc-adega
 Trabalho de conclusão de curso do curso técnico de Desenvolvimento de Sistemas integrado ao ensino médio.
 Projeto em reconstrução devido a problema na hora da build e para atualização de tecnologias
-No projeto foi utilizado o framework React, Express, MySQL, Node, TailwindCSS
+, foi utilizado o framework React, Express, MySQL, Node, TailwindCSS
 
 https://github.com/0deQI/tcc-adega/assets/90227163/5c807fb4-d87d-44c6-8f76-69bce879ae9a
 
